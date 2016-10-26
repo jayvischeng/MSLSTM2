@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e688aff-7938-470f-8315-239d59c0e28b" name="MSLSTM2" url="http://ubt16a.cs.cityu.edu.hk">
+        <fileTransfer host="ubt16a.cs.cityu.edu.hk" port="22" rootFolder="/home/grads/mcheng223" accessType="SFTP" username="mcheng223">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
